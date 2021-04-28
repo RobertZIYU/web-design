@@ -16,11 +16,11 @@ jifowjeoifjeoijdsljffijojcmdneolfjoiewjlkcndeoilwjfknlkcdejfojsklfdewsklojfioewj
 
 As xxx writes:
 
-> WHereever you are, be there totally
+> WHereever you are, be there totally.
 
 *This text will be italicized. *
 
-**This text will be bold. **
+** This text will be bold. **
 
 **You are _all_ welcome .**
 
